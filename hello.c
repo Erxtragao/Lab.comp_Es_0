@@ -2,7 +2,7 @@
 
 int main(void)
 {
-  printf("Hello, computional physics!\n");
+  printf("Hello :) , computional physics!\n");
     /*
      * TODO: stampa esattamente:
      * Hello, computational physics!
